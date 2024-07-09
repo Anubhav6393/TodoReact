@@ -1,0 +1,1 @@
+The Todo List project is a simple and efficient way to manage tasks. It allows users to add, delete, and mark tasks as completed. This project is a great starting point for learning basic CRUD (Create, Read, Update, Delete) operations and understanding the fundamentals of front-end and back-end development.
